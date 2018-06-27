@@ -36,4 +36,4 @@ today + eta
 #datetime.datetime(2018, 2, 19, 20, 55, 19, 197404)
 
 str(today + eta)
-#'2018-02-19 20:55:19.197404'
+#'2018-02-parsing-date-from-logs-19 20:55:19.197404'
